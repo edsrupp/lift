@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="react-native-ble-manager-unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/manager/react-native-ble-manager/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/manager/react-native-ble-manager/unspecified/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

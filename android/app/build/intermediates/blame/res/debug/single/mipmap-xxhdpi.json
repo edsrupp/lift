@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/edrupp/usc/udemyWork/ReactNative/react-native-app-collection/manager/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/edrupp/usc/udemyWork/ReactNative/react-native-app-collection/manager/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/edrupp/usc/Lift/lift-coach/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/edrupp/usc/Lift/lift-coach/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
